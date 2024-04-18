@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/test/java/test/googlecode/genericdao/hql_runner
+END
+HQLRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/test/java/test/googlecode/genericdao/hql_runner/HQLRunner.java
+END
+initDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/test/java/test/googlecode/genericdao/hql_runner/initDB.sql
+END

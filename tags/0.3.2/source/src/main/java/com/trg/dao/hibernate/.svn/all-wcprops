@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/109/tags/0.3.2/source/src/main/java/com/trg/dao/hibernate
+END
+HibernateDAOHQLImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/109/tags/0.3.2/source/src/main/java/com/trg/dao/hibernate/HibernateDAOHQLImpl.java
+END
+GenericDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/109/tags/0.3.2/source/src/main/java/com/trg/dao/hibernate/GenericDAOImpl.java
+END
+GeneralDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/109/tags/0.3.2/source/src/main/java/com/trg/dao/hibernate/GeneralDAOImpl.java
+END
+HibernateSearchToQLProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/109/tags/0.3.2/source/src/main/java/com/trg/dao/hibernate/HibernateSearchToQLProcessor.java
+END

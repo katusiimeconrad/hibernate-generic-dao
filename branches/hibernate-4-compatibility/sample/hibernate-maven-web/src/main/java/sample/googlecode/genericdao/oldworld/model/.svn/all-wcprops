@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/model
+END
+Citizen.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/model/Citizen.java
+END
+Town.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/model/Town.java
+END

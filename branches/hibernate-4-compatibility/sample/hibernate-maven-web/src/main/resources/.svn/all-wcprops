@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/resources
+END
+target-mysql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/resources/target-mysql.properties
+END
+main-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/resources/main-servlet.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/resources/applicationContext.xml
+END
+target-h2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/resources/target-h2.properties
+END
+applicationContext-persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/resources/applicationContext-persistence.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/resources/log4j.properties
+END

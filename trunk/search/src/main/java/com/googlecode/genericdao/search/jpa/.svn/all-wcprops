@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/798/trunk/search/src/main/java/com/googlecode/genericdao/search/jpa
+END
+JPAAnnotationCollectionMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/798/trunk/search/src/main/java/com/googlecode/genericdao/search/jpa/JPAAnnotationCollectionMetadata.java
+END
+JPASearchFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/774/trunk/search/src/main/java/com/googlecode/genericdao/search/jpa/JPASearchFacade.java
+END
+JPAAnnotationMetadataUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/745/trunk/search/src/main/java/com/googlecode/genericdao/search/jpa/JPAAnnotationMetadataUtil.java
+END
+JPAAnnotationMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/798/trunk/search/src/main/java/com/googlecode/genericdao/search/jpa/JPAAnnotationMetadata.java
+END
+JPASearchProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/774/trunk/search/src/main/java/com/googlecode/genericdao/search/jpa/JPASearchProcessor.java
+END

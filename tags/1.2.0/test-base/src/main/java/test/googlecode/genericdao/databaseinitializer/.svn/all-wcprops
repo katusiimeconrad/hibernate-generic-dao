@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/789/tags/1.2.0/test-base/src/main/java/test/googlecode/genericdao/databaseinitializer
+END
+SqlExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/789/tags/1.2.0/test-base/src/main/java/test/googlecode/genericdao/databaseinitializer/SqlExecutor.java
+END
+SqlUpdateStatementBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/789/tags/1.2.0/test-base/src/main/java/test/googlecode/genericdao/databaseinitializer/SqlUpdateStatementBuilder.java
+END
+SqlInsertStatementBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/789/tags/1.2.0/test-base/src/main/java/test/googlecode/genericdao/databaseinitializer/SqlInsertStatementBuilder.java
+END
+DatabaseRowInserter.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/789/tags/1.2.0/test-base/src/main/java/test/googlecode/genericdao/databaseinitializer/DatabaseRowInserter.java
+END
+PersistableTestDataModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/789/tags/1.2.0/test-base/src/main/java/test/googlecode/genericdao/databaseinitializer/PersistableTestDataModel.java
+END
+DatabasePopulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/789/tags/1.2.0/test-base/src/main/java/test/googlecode/genericdao/databaseinitializer/DatabasePopulator.java
+END
+TestDataModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/789/tags/1.2.0/test-base/src/main/java/test/googlecode/genericdao/databaseinitializer/TestDataModel.java
+END
+SqlStatementBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/789/tags/1.2.0/test-base/src/main/java/test/googlecode/genericdao/databaseinitializer/SqlStatementBuilder.java
+END

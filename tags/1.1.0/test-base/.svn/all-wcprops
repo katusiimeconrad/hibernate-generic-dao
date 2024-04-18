@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/753/tags/1.1.0/test-base
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/753/tags/1.1.0/test-base/pom.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/753/tags/1.1.0/test-base/.classpath
+END
+test model classes.class.violet
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/753/tags/1.1.0/test-base/test%20model%20classes.class.violet
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/753/tags/1.1.0/test-base/.project
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/617/tags/0.5.1/trg-search/src/main/java/com/trg/search/jpa
+END
+JPASearchProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/617/tags/0.5.1/trg-search/src/main/java/com/trg/search/jpa/JPASearchProcessor.java
+END
+JPAAnnotationCollectionMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/617/tags/0.5.1/trg-search/src/main/java/com/trg/search/jpa/JPAAnnotationCollectionMetadata.java
+END
+JPASearchFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/617/tags/0.5.1/trg-search/src/main/java/com/trg/search/jpa/JPASearchFacade.java
+END
+JPAAnnotationMetadataUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/617/tags/0.5.1/trg-search/src/main/java/com/trg/search/jpa/JPAAnnotationMetadataUtil.java
+END
+JPAAnnotationMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/617/tags/0.5.1/trg-search/src/main/java/com/trg/search/jpa/JPAAnnotationMetadata.java
+END

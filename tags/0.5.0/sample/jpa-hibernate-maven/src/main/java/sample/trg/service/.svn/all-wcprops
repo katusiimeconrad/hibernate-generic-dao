@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/559/tags/0.5.0/sample/jpa-hibernate-maven/src/main/java/sample/trg/service
+END
+TownServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/559/tags/0.5.0/sample/jpa-hibernate-maven/src/main/java/sample/trg/service/TownServiceImpl.java
+END
+CitizenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/559/tags/0.5.0/sample/jpa-hibernate-maven/src/main/java/sample/trg/service/CitizenService.java
+END
+CitizenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/559/tags/0.5.0/sample/jpa-hibernate-maven/src/main/java/sample/trg/service/CitizenServiceImpl.java
+END
+TownService.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/559/tags/0.5.0/sample/jpa-hibernate-maven/src/main/java/sample/trg/service/TownService.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate
+END
+HibernateSearchFacade.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate/HibernateSearchFacade.html
+END
+HibernateEntityMetadata.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate/HibernateEntityMetadata.html
+END
+HibernateMetadataUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate/HibernateMetadataUtil.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate/package-summary.html
+END
+HibernateSearchProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate/HibernateSearchProcessor.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate/package-tree.html
+END
+HibernateNonEntityMetadata.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate/HibernateNonEntityMetadata.html
+END

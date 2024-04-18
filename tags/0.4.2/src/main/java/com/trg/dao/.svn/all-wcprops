@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/336/tags/0.4.2/src/main/java/com/trg/dao
+END
+MetaDataUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/336/tags/0.4.2/src/main/java/com/trg/dao/MetaDataUtil.java
+END
+BaseSearchProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/336/tags/0.4.2/src/main/java/com/trg/dao/BaseSearchProcessor.java
+END
+BaseDAODispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/336/tags/0.4.2/src/main/java/com/trg/dao/BaseDAODispatcher.java
+END
+DAODispatcherException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/336/tags/0.4.2/src/main/java/com/trg/dao/DAODispatcherException.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/336/tags/0.4.2/src/main/java/com/trg/dao/Util.java
+END

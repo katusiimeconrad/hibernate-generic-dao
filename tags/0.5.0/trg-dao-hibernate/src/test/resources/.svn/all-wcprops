@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/558/tags/0.5.0/trg-dao-hibernate/src/test/resources
+END
+applicationContext-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/558/tags/0.5.0/trg-dao-hibernate/src/test/resources/applicationContext-dao.xml
+END
+applicationContext-specific.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/558/tags/0.5.0/trg-dao-hibernate/src/test/resources/applicationContext-specific.xml
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/558/tags/0.5.0/trg-dao-hibernate/src/test/resources/hibernate.cfg.xml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/dao/standard
+END
+PersonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/dao/standard/PersonService.java
+END
+MyGeneralDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/dao/standard/MyGeneralDAOImpl.java
+END
+PersonDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/dao/standard/PersonDAO.java
+END
+PersonDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/dao/standard/PersonDAOImpl.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/186/tags/0.3.4/src/test/java/com/test/junit/hibernate
+END
+SecurityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/186/tags/0.3.4/src/test/java/com/test/junit/hibernate/SecurityTest.java
+END
+FetchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/186/tags/0.3.4/src/test/java/com/test/junit/hibernate/FetchTest.java
+END
+TrickyIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/186/tags/0.3.4/src/test/java/com/test/junit/hibernate/TrickyIssueTest.java
+END
+BaseDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/186/tags/0.3.4/src/test/java/com/test/junit/hibernate/BaseDAOTest.java
+END
+PagingAndSortingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/186/tags/0.3.4/src/test/java/com/test/junit/hibernate/PagingAndSortingTest.java
+END
+SearchResultTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/186/tags/0.3.4/src/test/java/com/test/junit/hibernate/SearchResultTest.java
+END
+FilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/186/tags/0.3.4/src/test/java/com/test/junit/hibernate/FilterTest.java
+END

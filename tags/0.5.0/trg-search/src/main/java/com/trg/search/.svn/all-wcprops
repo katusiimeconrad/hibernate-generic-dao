@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/558/tags/0.5.0/trg-search/src/main/java/com/trg/search
+END
+IMutableSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/558/tags/0.5.0/trg-search/src/main/java/com/trg/search/IMutableSearch.java
+END
+SearchFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/558/tags/0.5.0/trg-search/src/main/java/com/trg/search/SearchFacade.java
+END
+InternalUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/558/tags/0.5.0/trg-search/src/main/java/com/trg/search/InternalUtil.java
+END
+ISearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/558/tags/0.5.0/trg-search/src/main/java/com/trg/search/ISearch.java
+END
+MetadataUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/558/tags/0.5.0/trg-search/src/main/java/com/trg/search/MetadataUtil.java
+END
+BaseSearchProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/558/tags/0.5.0/trg-search/src/main/java/com/trg/search/BaseSearchProcessor.java
+END
+Metadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/558/tags/0.5.0/trg-search/src/main/java/com/trg/search/Metadata.java
+END
+SearchUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/558/tags/0.5.0/trg-search/src/main/java/com/trg/search/SearchUtil.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/558/tags/0.5.0/trg-search/src/main/java/com/trg/search/Field.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/558/tags/0.5.0/trg-search/src/main/java/com/trg/search/SearchResult.java
+END
+Search.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/558/tags/0.5.0/trg-search/src/main/java/com/trg/search/Search.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/558/tags/0.5.0/trg-search/src/main/java/com/trg/search/Filter.java
+END
+ExampleOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/558/tags/0.5.0/trg-search/src/main/java/com/trg/search/ExampleOptions.java
+END
+Sort.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/558/tags/0.5.0/trg-search/src/main/java/com/trg/search/Sort.java
+END

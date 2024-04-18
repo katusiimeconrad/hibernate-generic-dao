@@ -1,0 +1,92 @@
+10
+
+dir
+799
+http://hibernate-generic-dao.googlecode.com/svn/branches/hibernate-4-compatibility
+http://hibernate-generic-dao.googlecode.com/svn
+
+
+
+2012-10-28T22:23:09.927123Z
+757
+dwolvert@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+8ef07cb6-1a53-0410-b69c-cfc34dde4201
+
+maven-repo
+dir
+
+pom.xml
+file
+
+
+
+
+2016-03-18T17:19:55.962412Z
+512f72987b66a5cd50ebafbd05b29ddf
+2011-10-19T22:44:35.848557Z
+754
+dwolvert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3268
+
+search-jpa-hibernate
+dir
+
+sample
+dir
+
+test-search
+dir
+
+dao-hibernate
+dir
+
+dao
+dir
+
+search-hibernate
+dir
+
+search
+dir
+
+test-base
+dir
+
+docs
+dir
+

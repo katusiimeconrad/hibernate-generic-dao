@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/558/tags/0.5.0/trg-search
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/558/tags/0.5.0/trg-search/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/558/tags/0.5.0/trg-search/pom.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/558/tags/0.5.0/trg-search/.classpath
+END

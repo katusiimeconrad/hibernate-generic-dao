@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-base/src/main/resources
+END
+target-hsqldb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-base/src/main/resources/target-hsqldb.properties
+END
+jUnit-applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-base/src/main/resources/jUnit-applicationContext.xml
+END
+applicationContext-datasource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-base/src/main/resources/applicationContext-datasource.xml
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-base/src/main/resources/persistence.xml
+END
+target-mysql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-base/src/main/resources/target-mysql.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-base/src/main/resources/applicationContext.xml
+END
+target-h2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-base/src/main/resources/target-h2.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-base/src/main/resources/log4j.properties
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/hibernate/class-use
+END
+HibernateSearchProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/hibernate/class-use/HibernateSearchProcessor.html
+END
+HibernateNonEntityMetadata.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/hibernate/class-use/HibernateNonEntityMetadata.html
+END
+HibernateSearchFacade.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/hibernate/class-use/HibernateSearchFacade.html
+END
+HibernateEntityMetadata.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/hibernate/class-use/HibernateEntityMetadata.html
+END
+HibernateMetadataUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/hibernate/class-use/HibernateMetadataUtil.html
+END

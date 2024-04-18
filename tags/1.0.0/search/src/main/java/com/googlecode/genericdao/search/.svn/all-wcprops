@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/692/tags/1.0.0/search/src/main/java/com/googlecode/genericdao/search
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/692/tags/1.0.0/search/src/main/java/com/googlecode/genericdao/search/SearchResult.java
+END
+Search.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/692/tags/1.0.0/search/src/main/java/com/googlecode/genericdao/search/Search.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/692/tags/1.0.0/search/src/main/java/com/googlecode/genericdao/search/Filter.java
+END
+ExampleOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/692/tags/1.0.0/search/src/main/java/com/googlecode/genericdao/search/ExampleOptions.java
+END
+Sort.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/692/tags/1.0.0/search/src/main/java/com/googlecode/genericdao/search/Sort.java
+END
+IMutableSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/692/tags/1.0.0/search/src/main/java/com/googlecode/genericdao/search/IMutableSearch.java
+END
+SearchFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/692/tags/1.0.0/search/src/main/java/com/googlecode/genericdao/search/SearchFacade.java
+END
+InternalUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/692/tags/1.0.0/search/src/main/java/com/googlecode/genericdao/search/InternalUtil.java
+END
+ISearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/692/tags/1.0.0/search/src/main/java/com/googlecode/genericdao/search/ISearch.java
+END
+MetadataUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/692/tags/1.0.0/search/src/main/java/com/googlecode/genericdao/search/MetadataUtil.java
+END
+BaseSearchProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/692/tags/1.0.0/search/src/main/java/com/googlecode/genericdao/search/BaseSearchProcessor.java
+END
+Metadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/692/tags/1.0.0/search/src/main/java/com/googlecode/genericdao/search/Metadata.java
+END
+SearchUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/692/tags/1.0.0/search/src/main/java/com/googlecode/genericdao/search/SearchUtil.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/692/tags/1.0.0/search/src/main/java/com/googlecode/genericdao/search/Field.java
+END

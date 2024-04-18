@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/559/tags/0.5.0/docs/api/com/trg/dao/jpa/class-use
+END
+JPABaseDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/559/tags/0.5.0/docs/api/com/trg/dao/jpa/class-use/JPABaseDAO.html
+END
+DAODispatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/559/tags/0.5.0/docs/api/com/trg/dao/jpa/class-use/DAODispatcher.html
+END
+GenericDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/559/tags/0.5.0/docs/api/com/trg/dao/jpa/class-use/GenericDAO.html
+END
+GeneralDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/559/tags/0.5.0/docs/api/com/trg/dao/jpa/class-use/GeneralDAO.html
+END
+GenericDAOImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/559/tags/0.5.0/docs/api/com/trg/dao/jpa/class-use/GenericDAOImpl.html
+END
+GeneralDAOImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/559/tags/0.5.0/docs/api/com/trg/dao/jpa/class-use/GeneralDAOImpl.html
+END

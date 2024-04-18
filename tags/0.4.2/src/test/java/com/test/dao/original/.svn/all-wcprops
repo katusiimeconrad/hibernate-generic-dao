@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/336/tags/0.4.2/src/test/java/com/test/dao/original
+END
+BaseGenericDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/336/tags/0.4.2/src/test/java/com/test/dao/original/BaseGenericDAOImpl.java
+END
+HomeDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/336/tags/0.4.2/src/test/java/com/test/dao/original/HomeDAOImpl.java
+END
+PersonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/336/tags/0.4.2/src/test/java/com/test/dao/original/PersonService.java
+END
+AddressDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/336/tags/0.4.2/src/test/java/com/test/dao/original/AddressDAO.java
+END
+MyGeneralDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/336/tags/0.4.2/src/test/java/com/test/dao/original/MyGeneralDAOImpl.java
+END
+PersonDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/336/tags/0.4.2/src/test/java/com/test/dao/original/PersonDAO.java
+END
+AddressDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/336/tags/0.4.2/src/test/java/com/test/dao/original/AddressDAOImpl.java
+END
+PersonDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/336/tags/0.4.2/src/test/java/com/test/dao/original/PersonDAOImpl.java
+END
+HomeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/336/tags/0.4.2/src/test/java/com/test/dao/original/HomeDAO.java
+END

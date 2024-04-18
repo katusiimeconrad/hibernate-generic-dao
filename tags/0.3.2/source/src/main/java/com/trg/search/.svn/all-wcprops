@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/109/tags/0.3.2/source/src/main/java/com/trg/search
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/109/tags/0.3.2/source/src/main/java/com/trg/search/SearchResult.java
+END
+Search.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/109/tags/0.3.2/source/src/main/java/com/trg/search/Search.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/109/tags/0.3.2/source/src/main/java/com/trg/search/Filter.java
+END
+Sort.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/109/tags/0.3.2/source/src/main/java/com/trg/search/Sort.java
+END
+Fetch.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/109/tags/0.3.2/source/src/main/java/com/trg/search/Fetch.java
+END

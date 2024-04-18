@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate
+END
+HPagingAndSortingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HPagingAndSortingTest.java
+END
+HTrickyIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HTrickyIssueTest.java
+END
+HFieldAndFetchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HFieldAndFetchTest.java
+END
+HMetadataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HMetadataTest.java
+END
+HFilterCollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HFilterCollectionTest.java
+END
+HTypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HTypesTest.java
+END
+HFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HFilterTest.java
+END
+HSecurityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HSecurityTest.java
+END
+HSearchResultsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HSearchResultsTest.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao-hibernate/src/test/resources
+END
+applicationContext-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao-hibernate/src/test/resources/applicationContext-dao.xml
+END
+applicationContext-specific.xml
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao-hibernate/src/test/resources/applicationContext-specific.xml
+END

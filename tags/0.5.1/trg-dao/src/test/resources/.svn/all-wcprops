@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/617/tags/0.5.1/trg-dao/src/test/resources
+END
+applicationContext-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/617/tags/0.5.1/trg-dao/src/test/resources/applicationContext-dao.xml
+END
+applicationContext-specific.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/617/tags/0.5.1/trg-dao/src/test/resources/applicationContext-specific.xml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/558/tags/0.5.0/trg-dao/src/test/java/junit/trg/dao/jpa
+END
+GenericDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/558/tags/0.5.0/trg-dao/src/test/java/junit/trg/dao/jpa/GenericDAOTest.java
+END
+GeneralDAOAndDispatcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/558/tags/0.5.0/trg-dao/src/test/java/junit/trg/dao/jpa/GeneralDAOAndDispatcherTest.java
+END
+BaseDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/558/tags/0.5.0/trg-dao/src/test/java/junit/trg/dao/jpa/BaseDAOTest.java
+END

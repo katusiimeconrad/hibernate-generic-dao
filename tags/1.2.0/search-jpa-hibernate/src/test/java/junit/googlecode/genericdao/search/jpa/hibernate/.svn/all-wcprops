@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/789/tags/1.2.0/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate
+END
+HSecurityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/789/tags/1.2.0/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HSecurityTest.java
+END
+HSearchResultsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/789/tags/1.2.0/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HSearchResultsTest.java
+END
+HPagingAndSortingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/789/tags/1.2.0/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HPagingAndSortingTest.java
+END
+HTrickyIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/789/tags/1.2.0/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HTrickyIssueTest.java
+END
+HFieldAndFetchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/789/tags/1.2.0/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HFieldAndFetchTest.java
+END
+HMetadataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/789/tags/1.2.0/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HMetadataTest.java
+END
+HFilterCollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/789/tags/1.2.0/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HFilterCollectionTest.java
+END
+HTypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/789/tags/1.2.0/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HTypesTest.java
+END
+HFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/789/tags/1.2.0/search-jpa-hibernate/src/test/java/junit/googlecode/genericdao/search/jpa/hibernate/HFilterTest.java
+END

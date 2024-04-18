@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 29
+target
+*.iml
+target
+*.iml
+.*
+
+END

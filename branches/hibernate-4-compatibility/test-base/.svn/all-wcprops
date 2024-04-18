@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-base
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-base/pom.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-base/.classpath
+END
+test model classes.class.violet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-base/test%20model%20classes.class.violet
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-base/.project
+END

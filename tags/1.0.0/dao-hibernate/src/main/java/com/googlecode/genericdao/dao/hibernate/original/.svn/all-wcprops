@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/692/tags/1.0.0/dao-hibernate/src/main/java/com/googlecode/genericdao/dao/hibernate/original
+END
+DAODispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/692/tags/1.0.0/dao-hibernate/src/main/java/com/googlecode/genericdao/dao/hibernate/original/DAODispatcher.java
+END
+GenericDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/692/tags/1.0.0/dao-hibernate/src/main/java/com/googlecode/genericdao/dao/hibernate/original/GenericDAO.java
+END
+GeneralDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/692/tags/1.0.0/dao-hibernate/src/main/java/com/googlecode/genericdao/dao/hibernate/original/GeneralDAO.java
+END
+GenericDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/692/tags/1.0.0/dao-hibernate/src/main/java/com/googlecode/genericdao/dao/hibernate/original/GenericDAOImpl.java
+END
+GeneralDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/692/tags/1.0.0/dao-hibernate/src/main/java/com/googlecode/genericdao/dao/hibernate/original/GeneralDAOImpl.java
+END
+FlexDAOAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/692/tags/1.0.0/dao-hibernate/src/main/java/com/googlecode/genericdao/dao/hibernate/original/FlexDAOAdapter.java
+END

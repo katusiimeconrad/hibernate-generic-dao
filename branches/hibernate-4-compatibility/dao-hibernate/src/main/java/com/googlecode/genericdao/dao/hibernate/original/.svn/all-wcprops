@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao-hibernate/src/main/java/com/googlecode/genericdao/dao/hibernate/original
+END
+GeneralDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao-hibernate/src/main/java/com/googlecode/genericdao/dao/hibernate/original/GeneralDAOImpl.java
+END
+FlexDAOAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao-hibernate/src/main/java/com/googlecode/genericdao/dao/hibernate/original/FlexDAOAdapter.java
+END
+DAODispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao-hibernate/src/main/java/com/googlecode/genericdao/dao/hibernate/original/DAODispatcher.java
+END
+GenericDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao-hibernate/src/main/java/com/googlecode/genericdao/dao/hibernate/original/GenericDAO.java
+END
+GeneralDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao-hibernate/src/main/java/com/googlecode/genericdao/dao/hibernate/original/GeneralDAO.java
+END
+GenericDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao-hibernate/src/main/java/com/googlecode/genericdao/dao/hibernate/original/GenericDAOImpl.java
+END

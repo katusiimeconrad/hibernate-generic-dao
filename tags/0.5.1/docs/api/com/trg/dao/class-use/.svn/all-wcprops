@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/617/tags/0.5.1/docs/api/com/trg/dao/class-use
+END
+BaseDAODispatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/617/tags/0.5.1/docs/api/com/trg/dao/class-use/BaseDAODispatcher.html
+END
+DAODispatcherException.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/617/tags/0.5.1/docs/api/com/trg/dao/class-use/DAODispatcherException.html
+END
+DAOUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/617/tags/0.5.1/docs/api/com/trg/dao/class-use/DAOUtil.html
+END

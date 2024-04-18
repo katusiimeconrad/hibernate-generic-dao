@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/238/tags/0.4.0/doc/com/trg/dao
+END
+AbstractSearchProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/238/tags/0.4.0/doc/com/trg/dao/AbstractSearchProcessor.html
+END
+DAODispatcherException.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/238/tags/0.4.0/doc/com/trg/dao/DAODispatcherException.html
+END
+Util.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/238/tags/0.4.0/doc/com/trg/dao/Util.html
+END
+MetaDataUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/238/tags/0.4.0/doc/com/trg/dao/MetaDataUtil.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/238/tags/0.4.0/doc/com/trg/dao/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/238/tags/0.4.0/doc/com/trg/dao/package-use.html
+END
+BaseDAODispatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/238/tags/0.4.0/doc/com/trg/dao/BaseDAODispatcher.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/238/tags/0.4.0/doc/com/trg/dao/package-summary.html
+END
+AbstractSearchProcessor.AliasNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/238/tags/0.4.0/doc/com/trg/dao/AbstractSearchProcessor.AliasNode.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/238/tags/0.4.0/doc/com/trg/dao/package-tree.html
+END

@@ -1,0 +1,92 @@
+10
+
+dir
+799
+http://hibernate-generic-dao.googlecode.com/svn/tags/1.1.0
+http://hibernate-generic-dao.googlecode.com/svn
+
+
+
+2011-10-19T22:44:32.697657Z
+753
+dwolvert
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+8ef07cb6-1a53-0410-b69c-cfc34dde4201
+
+test-base
+dir
+
+docs
+dir
+
+maven-repo
+dir
+
+pom.xml
+file
+
+
+
+
+2016-03-18T17:20:04.314342Z
+50b785027e0b1ba712acefdba7b4f1b9
+2011-10-19T22:44:23.556951Z
+752
+dwolvert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3274
+
+search-jpa-hibernate
+dir
+
+sample
+dir
+
+test-search
+dir
+
+dao-hibernate
+dir
+
+dao
+dir
+
+search-hibernate
+dir
+
+search
+dir
+

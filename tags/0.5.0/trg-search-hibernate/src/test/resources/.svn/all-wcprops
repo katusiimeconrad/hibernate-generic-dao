@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/558/tags/0.5.0/trg-search-hibernate/src/test/resources
+END
+applicationContext-specific.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/558/tags/0.5.0/trg-search-hibernate/src/test/resources/applicationContext-specific.xml
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/558/tags/0.5.0/trg-search-hibernate/src/test/resources/hibernate.cfg.xml
+END

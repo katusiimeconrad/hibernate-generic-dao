@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/753/tags/1.1.0/search-hibernate/src/main/java/com/googlecode/genericdao/search/hibernate
+END
+HibernateEntityMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/753/tags/1.1.0/search-hibernate/src/main/java/com/googlecode/genericdao/search/hibernate/HibernateEntityMetadata.java
+END
+HibernateMetadataUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/753/tags/1.1.0/search-hibernate/src/main/java/com/googlecode/genericdao/search/hibernate/HibernateMetadataUtil.java
+END
+HibernateSearchProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/753/tags/1.1.0/search-hibernate/src/main/java/com/googlecode/genericdao/search/hibernate/HibernateSearchProcessor.java
+END
+HibernateNonEntityMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/753/tags/1.1.0/search-hibernate/src/main/java/com/googlecode/genericdao/search/hibernate/HibernateNonEntityMetadata.java
+END
+HibernateSearchFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/753/tags/1.1.0/search-hibernate/src/main/java/com/googlecode/genericdao/search/hibernate/HibernateSearchFacade.java
+END

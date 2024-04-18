@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/692/tags/1.0.0/dao/src/main/java/com/googlecode/genericdao/dao/jpa
+END
+JPABaseDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/692/tags/1.0.0/dao/src/main/java/com/googlecode/genericdao/dao/jpa/JPABaseDAO.java
+END
+DAODispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/692/tags/1.0.0/dao/src/main/java/com/googlecode/genericdao/dao/jpa/DAODispatcher.java
+END
+GenericDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/692/tags/1.0.0/dao/src/main/java/com/googlecode/genericdao/dao/jpa/GenericDAO.java
+END
+GeneralDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/692/tags/1.0.0/dao/src/main/java/com/googlecode/genericdao/dao/jpa/GeneralDAO.java
+END
+GenericDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/692/tags/1.0.0/dao/src/main/java/com/googlecode/genericdao/dao/jpa/GenericDAOImpl.java
+END
+GeneralDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/692/tags/1.0.0/dao/src/main/java/com/googlecode/genericdao/dao/jpa/GeneralDAOImpl.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/617/tags/0.5.1/trg-dao/src/main/java/com/trg/dao/jpa
+END
+JPABaseDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/617/tags/0.5.1/trg-dao/src/main/java/com/trg/dao/jpa/JPABaseDAO.java
+END
+DAODispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/617/tags/0.5.1/trg-dao/src/main/java/com/trg/dao/jpa/DAODispatcher.java
+END
+GenericDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/617/tags/0.5.1/trg-dao/src/main/java/com/trg/dao/jpa/GenericDAO.java
+END
+GeneralDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/617/tags/0.5.1/trg-dao/src/main/java/com/trg/dao/jpa/GeneralDAO.java
+END
+GenericDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/617/tags/0.5.1/trg-dao/src/main/java/com/trg/dao/jpa/GenericDAOImpl.java
+END
+GeneralDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/617/tags/0.5.1/trg-dao/src/main/java/com/trg/dao/jpa/GeneralDAOImpl.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/558/tags/0.5.0/trg-dao-hibernate/src/test/java/test/trg/dao/hibernate/dao/original
+END
+HomeDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/558/tags/0.5.0/trg-dao-hibernate/src/test/java/test/trg/dao/hibernate/dao/original/HomeDAOImpl.java
+END
+PersonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/558/tags/0.5.0/trg-dao-hibernate/src/test/java/test/trg/dao/hibernate/dao/original/PersonService.java
+END
+AddressDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/558/tags/0.5.0/trg-dao-hibernate/src/test/java/test/trg/dao/hibernate/dao/original/AddressDAO.java
+END
+MyGeneralDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/558/tags/0.5.0/trg-dao-hibernate/src/test/java/test/trg/dao/hibernate/dao/original/MyGeneralDAOImpl.java
+END
+PersonDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/558/tags/0.5.0/trg-dao-hibernate/src/test/java/test/trg/dao/hibernate/dao/original/PersonDAO.java
+END
+AddressDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/558/tags/0.5.0/trg-dao-hibernate/src/test/java/test/trg/dao/hibernate/dao/original/AddressDAOImpl.java
+END
+PersonDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/558/tags/0.5.0/trg-dao-hibernate/src/test/java/test/trg/dao/hibernate/dao/original/PersonDAOImpl.java
+END
+HomeDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/558/tags/0.5.0/trg-dao-hibernate/src/test/java/test/trg/dao/hibernate/dao/original/HomeDAO.java
+END
+BaseGenericDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/558/tags/0.5.0/trg-dao-hibernate/src/test/java/test/trg/dao/hibernate/dao/original/BaseGenericDAOImpl.java
+END

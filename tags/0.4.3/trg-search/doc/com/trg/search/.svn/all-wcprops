@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search
+END
+MetadataUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/MetadataUtil.html
+END
+ISearch.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/ISearch.html
+END
+SearchUtil.ItemVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/SearchUtil.ItemVisitor.html
+END
+Metadata.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/Metadata.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/package-frame.html
+END
+Field.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/Field.html
+END
+Filter.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/Filter.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/package-summary.html
+END
+Sort.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/Sort.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/package-tree.html
+END
+IMutableSearch.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/IMutableSearch.html
+END
+SearchFacade.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/SearchFacade.html
+END
+BaseSearchProcessor.AliasNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/BaseSearchProcessor.AliasNode.html
+END
+BaseSearchProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/BaseSearchProcessor.html
+END
+SearchUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/SearchUtil.html
+END
+SearchResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/SearchResult.html
+END
+Search.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/Search.html
+END
+ExampleOptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/ExampleOptions.html
+END
+SearchUtil.FilterVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/SearchUtil.FilterVisitor.html
+END
+BaseSearchProcessor.SearchContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/BaseSearchProcessor.SearchContext.html
+END
+InternalUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/427/tags/0.4.3/trg-search/doc/com/trg/search/InternalUtil.html
+END

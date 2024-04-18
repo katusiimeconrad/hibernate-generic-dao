@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/795/trunk/dao/src/main/java/com/googlecode/genericdao/dao
+END
+DAOUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/774/trunk/dao/src/main/java/com/googlecode/genericdao/dao/DAOUtil.java
+END
+BaseDAODispatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/774/trunk/dao/src/main/java/com/googlecode/genericdao/dao/BaseDAODispatcher.java
+END
+DAODispatcherException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/774/trunk/dao/src/main/java/com/googlecode/genericdao/dao/DAODispatcherException.java
+END

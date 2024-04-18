@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/774/trunk/dao-hibernate/src/test/java/test/googlecode/genericdao/dao/hibernate/dao
+END
+MyGeneralDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/774/trunk/dao-hibernate/src/test/java/test/googlecode/genericdao/dao/hibernate/dao/MyGeneralDAOImpl.java
+END
+ProjectDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/774/trunk/dao-hibernate/src/test/java/test/googlecode/genericdao/dao/hibernate/dao/ProjectDAO.java
+END
+PersonDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/774/trunk/dao-hibernate/src/test/java/test/googlecode/genericdao/dao/hibernate/dao/PersonDAO.java
+END
+PersonDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/774/trunk/dao-hibernate/src/test/java/test/googlecode/genericdao/dao/hibernate/dao/PersonDAOImpl.java
+END
+ProjectDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/774/trunk/dao-hibernate/src/test/java/test/googlecode/genericdao/dao/hibernate/dao/ProjectDAOImpl.java
+END
+BaseDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/774/trunk/dao-hibernate/src/test/java/test/googlecode/genericdao/dao/hibernate/dao/BaseDAOImpl.java
+END
+PersonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/774/trunk/dao-hibernate/src/test/java/test/googlecode/genericdao/dao/hibernate/dao/PersonService.java
+END

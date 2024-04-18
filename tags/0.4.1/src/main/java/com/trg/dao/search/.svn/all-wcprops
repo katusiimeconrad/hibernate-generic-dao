@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/281/tags/0.4.1/src/main/java/com/trg/dao/search
+END
+SearchUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/281/tags/0.4.1/src/main/java/com/trg/dao/search/SearchUtil.java
+END
+Field.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/281/tags/0.4.1/src/main/java/com/trg/dao/search/Field.java
+END
+SearchResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/281/tags/0.4.1/src/main/java/com/trg/dao/search/SearchResult.java
+END
+Search.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/281/tags/0.4.1/src/main/java/com/trg/dao/search/Search.java
+END
+Filter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/281/tags/0.4.1/src/main/java/com/trg/dao/search/Filter.java
+END
+Sort.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/281/tags/0.4.1/src/main/java/com/trg/dao/search/Sort.java
+END
+IMutableSearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/281/tags/0.4.1/src/main/java/com/trg/dao/search/IMutableSearch.java
+END
+ISearch.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/281/tags/0.4.1/src/main/java/com/trg/dao/search/ISearch.java
+END

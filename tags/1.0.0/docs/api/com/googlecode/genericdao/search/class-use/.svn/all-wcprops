@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use
+END
+MetadataUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/MetadataUtil.html
+END
+ISearch.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/ISearch.html
+END
+SearchUtil.ItemVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/SearchUtil.ItemVisitor.html
+END
+Metadata.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/Metadata.html
+END
+Field.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/Field.html
+END
+Filter.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/Filter.html
+END
+Sort.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/Sort.html
+END
+IMutableSearch.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/IMutableSearch.html
+END
+SearchFacade.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/SearchFacade.html
+END
+BaseSearchProcessor.AliasNode.html
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/BaseSearchProcessor.AliasNode.html
+END
+BaseSearchProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/BaseSearchProcessor.html
+END
+SearchUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/SearchUtil.html
+END
+SearchResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/SearchResult.html
+END
+Search.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/Search.html
+END
+SearchUtil.FilterVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/SearchUtil.FilterVisitor.html
+END
+ExampleOptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/ExampleOptions.html
+END
+BaseSearchProcessor.SearchContext.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/BaseSearchProcessor.SearchContext.html
+END
+InternalUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/719/tags/1.0.0/docs/api/com/googlecode/genericdao/search/class-use/InternalUtil.html
+END

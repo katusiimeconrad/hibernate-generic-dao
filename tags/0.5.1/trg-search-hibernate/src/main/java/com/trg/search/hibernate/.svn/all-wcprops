@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/main/java/com/trg/search/hibernate
+END
+HibernateSearchProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/main/java/com/trg/search/hibernate/HibernateSearchProcessor.java
+END
+HibernateNonEntityMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/main/java/com/trg/search/hibernate/HibernateNonEntityMetadata.java
+END
+HibernateSearchFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/main/java/com/trg/search/hibernate/HibernateSearchFacade.java
+END
+HibernateEntityMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/main/java/com/trg/search/hibernate/HibernateEntityMetadata.java
+END
+HibernateMetadataUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/main/java/com/trg/search/hibernate/HibernateMetadataUtil.java
+END

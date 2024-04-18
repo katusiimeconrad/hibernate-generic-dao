@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/635/trunk/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/dao
+END
+CitizenDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/635/trunk/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/dao/CitizenDAO.java
+END
+CitizenDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/635/trunk/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/dao/CitizenDAOImpl.java
+END
+TownDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/635/trunk/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/dao/TownDAO.java
+END
+TownDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/635/trunk/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/dao/TownDAOImpl.java
+END
+BaseDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/635/trunk/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/dao/BaseDAO.java
+END

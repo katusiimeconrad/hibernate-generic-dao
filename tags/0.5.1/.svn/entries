@@ -1,0 +1,55 @@
+10
+
+dir
+799
+http://hibernate-generic-dao.googlecode.com/svn/tags/0.5.1
+http://hibernate-generic-dao.googlecode.com/svn
+
+
+
+2010-03-12T05:24:34.746678Z
+617
+dwolvert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8ef07cb6-1a53-0410-b69c-cfc34dde4201
+
+trg-dao-hibernate
+dir
+
+trg-test-search
+dir
+
+trg-dao
+dir
+
+trg-search-hibernate
+dir
+
+trg-search
+dir
+
+sample
+dir
+
+trg-test-base
+dir
+
+trg-search-jpa-hibernate
+dir
+
+docs
+dir
+

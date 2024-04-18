@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/692/tags/1.0.0/test-base/src/main/java/test/googlecode/genericdao/model
+END
+Store.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/692/tags/1.0.0/test-base/src/main/java/test/googlecode/genericdao/model/Store.java
+END
+RecipeIngredientId.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/692/tags/1.0.0/test-base/src/main/java/test/googlecode/genericdao/model/RecipeIngredientId.java
+END
+RecipeIngredient.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/692/tags/1.0.0/test-base/src/main/java/test/googlecode/genericdao/model/RecipeIngredient.java
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/692/tags/1.0.0/test-base/src/main/java/test/googlecode/genericdao/model/Name.java
+END
+Ident.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/692/tags/1.0.0/test-base/src/main/java/test/googlecode/genericdao/model/Ident.java
+END
+LimbedPet.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/692/tags/1.0.0/test-base/src/main/java/test/googlecode/genericdao/model/LimbedPet.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/692/tags/1.0.0/test-base/src/main/java/test/googlecode/genericdao/model/Address.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/692/tags/1.0.0/test-base/src/main/java/test/googlecode/genericdao/model/Project.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/692/tags/1.0.0/test-base/src/main/java/test/googlecode/genericdao/model/Person.java
+END
+Recipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/692/tags/1.0.0/test-base/src/main/java/test/googlecode/genericdao/model/Recipe.java
+END
+Ingredient.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/692/tags/1.0.0/test-base/src/main/java/test/googlecode/genericdao/model/Ingredient.java
+END
+Home.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/692/tags/1.0.0/test-base/src/main/java/test/googlecode/genericdao/model/Home.java
+END
+Pet.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/692/tags/1.0.0/test-base/src/main/java/test/googlecode/genericdao/model/Pet.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/158/tags/0.3.3/source/src/test/resources
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/158/tags/0.3.3/source/src/test/resources/log4j.properties
+END
+target-hsqldb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/158/tags/0.3.3/source/src/test/resources/target-hsqldb.properties
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/158/tags/0.3.3/source/src/test/resources/hibernate.cfg.xml
+END
+jUnit-applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/158/tags/0.3.3/source/src/test/resources/jUnit-applicationContext.xml
+END
+applicationContext-datasource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/158/tags/0.3.3/source/src/test/resources/applicationContext-datasource.xml
+END
+target-mysql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/158/tags/0.3.3/source/src/test/resources/target-mysql.properties
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/158/tags/0.3.3/source/src/test/resources/applicationContext.xml
+END
+applicationContext-dao.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/158/tags/0.3.3/source/src/test/resources/applicationContext-dao.xml
+END

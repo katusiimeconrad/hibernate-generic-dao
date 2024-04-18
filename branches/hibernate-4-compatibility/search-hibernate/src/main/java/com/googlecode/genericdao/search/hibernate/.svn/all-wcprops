@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/main/java/com/googlecode/genericdao/search/hibernate
+END
+HibernateNonEntityMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/main/java/com/googlecode/genericdao/search/hibernate/HibernateNonEntityMetadata.java
+END
+HibernateSearchFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/main/java/com/googlecode/genericdao/search/hibernate/HibernateSearchFacade.java
+END
+HibernateEntityMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/main/java/com/googlecode/genericdao/search/hibernate/HibernateEntityMetadata.java
+END
+HibernateMetadataUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/main/java/com/googlecode/genericdao/search/hibernate/HibernateMetadataUtil.java
+END
+HibernateSearchProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/main/java/com/googlecode/genericdao/search/hibernate/HibernateSearchProcessor.java
+END

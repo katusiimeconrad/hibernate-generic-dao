@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search/src/main/java/com/googlecode/genericdao/search/jpa
+END
+JPASearchProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search/src/main/java/com/googlecode/genericdao/search/jpa/JPASearchProcessor.java
+END
+JPAAnnotationCollectionMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search/src/main/java/com/googlecode/genericdao/search/jpa/JPAAnnotationCollectionMetadata.java
+END
+JPASearchFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search/src/main/java/com/googlecode/genericdao/search/jpa/JPASearchFacade.java
+END
+JPAAnnotationMetadataUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search/src/main/java/com/googlecode/genericdao/search/jpa/JPAAnnotationMetadataUtil.java
+END
+JPAAnnotationMetadata.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search/src/main/java/com/googlecode/genericdao/search/jpa/JPAAnnotationMetadata.java
+END

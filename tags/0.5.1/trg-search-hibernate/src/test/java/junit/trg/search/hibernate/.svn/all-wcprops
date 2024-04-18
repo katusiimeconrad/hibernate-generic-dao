@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/test/java/junit/trg/search/hibernate
+END
+HPagingAndSortingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/test/java/junit/trg/search/hibernate/HPagingAndSortingTest.java
+END
+HTrickyIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/test/java/junit/trg/search/hibernate/HTrickyIssueTest.java
+END
+HFieldAndFetchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/test/java/junit/trg/search/hibernate/HFieldAndFetchTest.java
+END
+HMetadataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/test/java/junit/trg/search/hibernate/HMetadataTest.java
+END
+HFilterCollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/test/java/junit/trg/search/hibernate/HFilterCollectionTest.java
+END
+HTypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/test/java/junit/trg/search/hibernate/HTypesTest.java
+END
+HFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/test/java/junit/trg/search/hibernate/HFilterTest.java
+END
+HSecurityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/test/java/junit/trg/search/hibernate/HSecurityTest.java
+END
+HSearchResultsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/test/java/junit/trg/search/hibernate/HSearchResultsTest.java
+END

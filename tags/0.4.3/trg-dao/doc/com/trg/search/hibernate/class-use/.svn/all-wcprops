@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate/class-use
+END
+HibernateNonEntityMetadata.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate/class-use/HibernateNonEntityMetadata.html
+END
+HibernateSearchFacade.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate/class-use/HibernateSearchFacade.html
+END
+HibernateEntityMetadata.html
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate/class-use/HibernateEntityMetadata.html
+END
+HibernateMetadataUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate/class-use/HibernateMetadataUtil.html
+END
+HibernateSearchProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/search/hibernate/class-use/HibernateSearchProcessor.html
+END

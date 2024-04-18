@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/427/tags/0.4.3/trg-shared/src/test/java/test/trg/shared/model
+END
+Ident.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/427/tags/0.4.3/trg-shared/src/test/java/test/trg/shared/model/Ident.java
+END
+LimbedPet.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/427/tags/0.4.3/trg-shared/src/test/java/test/trg/shared/model/LimbedPet.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/427/tags/0.4.3/trg-shared/src/test/java/test/trg/shared/model/Address.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/427/tags/0.4.3/trg-shared/src/test/java/test/trg/shared/model/Project.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/427/tags/0.4.3/trg-shared/src/test/java/test/trg/shared/model/Person.java
+END
+Recipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/427/tags/0.4.3/trg-shared/src/test/java/test/trg/shared/model/Recipe.java
+END
+Ingredient.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/427/tags/0.4.3/trg-shared/src/test/java/test/trg/shared/model/Ingredient.java
+END
+Home.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/427/tags/0.4.3/trg-shared/src/test/java/test/trg/shared/model/Home.java
+END
+Pet.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/427/tags/0.4.3/trg-shared/src/test/java/test/trg/shared/model/Pet.java
+END
+Store.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/427/tags/0.4.3/trg-shared/src/test/java/test/trg/shared/model/Store.java
+END
+RecipeIngredientId.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/427/tags/0.4.3/trg-shared/src/test/java/test/trg/shared/model/RecipeIngredientId.java
+END
+RecipeIngredient.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/427/tags/0.4.3/trg-shared/src/test/java/test/trg/shared/model/RecipeIngredient.java
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/427/tags/0.4.3/trg-shared/src/test/java/test/trg/shared/model/Name.java
+END

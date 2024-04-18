@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/test/java/junit/googlecode/genericdao/search/hibernate
+END
+HPagingAndSortingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/test/java/junit/googlecode/genericdao/search/hibernate/HPagingAndSortingTest.java
+END
+HTrickyIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/test/java/junit/googlecode/genericdao/search/hibernate/HTrickyIssueTest.java
+END
+HFieldAndFetchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/test/java/junit/googlecode/genericdao/search/hibernate/HFieldAndFetchTest.java
+END
+HMetadataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/test/java/junit/googlecode/genericdao/search/hibernate/HMetadataTest.java
+END
+HFilterCollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/test/java/junit/googlecode/genericdao/search/hibernate/HFilterCollectionTest.java
+END
+HTypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/test/java/junit/googlecode/genericdao/search/hibernate/HTypesTest.java
+END
+HFilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/test/java/junit/googlecode/genericdao/search/hibernate/HFilterTest.java
+END
+HSecurityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/test/java/junit/googlecode/genericdao/search/hibernate/HSecurityTest.java
+END
+HSearchResultsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/search-hibernate/src/test/java/junit/googlecode/genericdao/search/hibernate/HSearchResultsTest.java
+END

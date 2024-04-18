@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/692/tags/1.0.0/sample/hibernate-maven-web/src/main/webapp/WEB-INF/view/citizen
+END
+edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/692/tags/1.0.0/sample/hibernate-maven-web/src/main/webapp/WEB-INF/view/citizen/edit.jsp
+END
+list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/692/tags/1.0.0/sample/hibernate-maven-web/src/main/webapp/WEB-INF/view/citizen/list.jsp
+END

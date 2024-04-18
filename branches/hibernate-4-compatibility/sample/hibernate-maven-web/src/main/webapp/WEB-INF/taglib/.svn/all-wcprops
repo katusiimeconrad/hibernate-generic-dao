@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/webapp/WEB-INF/taglib
+END
+custom.tld
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/webapp/WEB-INF/taglib/custom.tld
+END
+spring.tld
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/webapp/WEB-INF/taglib/spring.tld
+END
+c.tld
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/webapp/WEB-INF/taglib/c.tld
+END
+spring-form.tld
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/webapp/WEB-INF/taglib/spring-form.tld
+END
+fn.tld
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/webapp/WEB-INF/taglib/fn.tld
+END
+fmt.tld
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/webapp/WEB-INF/taglib/fmt.tld
+END
+x.tld
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/webapp/WEB-INF/taglib/x.tld
+END

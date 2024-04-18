@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/web
+END
+CitizenForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/web/CitizenForm.java
+END
+CitizenController.java
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/web/CitizenController.java
+END
+TownController.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/web/TownController.java
+END
+TownForm.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/web/TownForm.java
+END

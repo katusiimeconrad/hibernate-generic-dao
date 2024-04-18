@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/test/java/test/trg/hql_runner
+END
+initDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/test/java/test/trg/hql_runner/initDB.sql
+END
+HQLRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/617/tags/0.5.1/trg-search-hibernate/src/test/java/test/trg/hql_runner/HQLRunner.java
+END

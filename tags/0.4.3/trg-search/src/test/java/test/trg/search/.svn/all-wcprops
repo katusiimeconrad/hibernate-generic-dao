@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/427/tags/0.4.3/trg-search/src/test/java/test/trg/search
+END
+FieldAndFetchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/427/tags/0.4.3/trg-search/src/test/java/test/trg/search/FieldAndFetchTest.java
+END
+MetadataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/427/tags/0.4.3/trg-search/src/test/java/test/trg/search/MetadataTest.java
+END
+FilterCollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/427/tags/0.4.3/trg-search/src/test/java/test/trg/search/FilterCollectionTest.java
+END
+TypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/427/tags/0.4.3/trg-search/src/test/java/test/trg/search/TypesTest.java
+END
+SearchResultTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/427/tags/0.4.3/trg-search/src/test/java/test/trg/search/SearchResultTest.java
+END
+FilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/427/tags/0.4.3/trg-search/src/test/java/test/trg/search/FilterTest.java
+END
+SecurityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/427/tags/0.4.3/trg-search/src/test/java/test/trg/search/SecurityTest.java
+END
+TrickyIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/427/tags/0.4.3/trg-search/src/test/java/test/trg/search/TrickyIssueTest.java
+END
+PagingAndSortingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/427/tags/0.4.3/trg-search/src/test/java/test/trg/search/PagingAndSortingTest.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/617/tags/0.5.1/trg-dao-hibernate/src/test/java/test/trg/dao/hibernate
+END
+HibernatePersistenceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/617/tags/0.5.1/trg-dao-hibernate/src/test/java/test/trg/dao/hibernate/HibernatePersistenceHelper.java
+END
+HibernateBaseDAOTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/617/tags/0.5.1/trg-dao-hibernate/src/test/java/test/trg/dao/hibernate/HibernateBaseDAOTester.java
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/jpa-hibernate-maven/src/main/java/sample/googlecode/genericdao/dao
+END
+TownDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/jpa-hibernate-maven/src/main/java/sample/googlecode/genericdao/dao/TownDAOImpl.java
+END
+DecoratedGeneralDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/jpa-hibernate-maven/src/main/java/sample/googlecode/genericdao/dao/DecoratedGeneralDAOImpl.java
+END
+BaseDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/jpa-hibernate-maven/src/main/java/sample/googlecode/genericdao/dao/BaseDAO.java
+END
+CitizenDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/jpa-hibernate-maven/src/main/java/sample/googlecode/genericdao/dao/CitizenDAO.java
+END
+CitizenDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/jpa-hibernate-maven/src/main/java/sample/googlecode/genericdao/dao/CitizenDAOImpl.java
+END
+TownDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/jpa-hibernate-maven/src/main/java/sample/googlecode/genericdao/dao/TownDAO.java
+END

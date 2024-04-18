@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao-hibernate/src/test/java/test/googlecode/genericdao/dao/hibernate
+END
+HibernatePersistenceHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao-hibernate/src/test/java/test/googlecode/genericdao/dao/hibernate/HibernatePersistenceHelper.java
+END
+HibernateBaseDAOTester.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao-hibernate/src/test/java/test/googlecode/genericdao/dao/hibernate/HibernateBaseDAOTester.java
+END

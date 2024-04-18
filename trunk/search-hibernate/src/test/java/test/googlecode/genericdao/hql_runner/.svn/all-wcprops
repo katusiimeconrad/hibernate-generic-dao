@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/770/trunk/search-hibernate/src/test/java/test/googlecode/genericdao/hql_runner
+END
+initDB_mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/770/trunk/search-hibernate/src/test/java/test/googlecode/genericdao/hql_runner/initDB_mysql.sql
+END
+HQLRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/760/trunk/search-hibernate/src/test/java/test/googlecode/genericdao/hql_runner/HQLRunner.java
+END
+initDB.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/770/trunk/search-hibernate/src/test/java/test/googlecode/genericdao/hql_runner/initDB.sql
+END

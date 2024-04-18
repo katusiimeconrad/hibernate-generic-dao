@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao/src/test/java/junit/googlecode/genericdao/dao/jpa
+END
+GeneralDAOAndDispatcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao/src/test/java/junit/googlecode/genericdao/dao/jpa/GeneralDAOAndDispatcherTest.java
+END
+BaseDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao/src/test/java/junit/googlecode/genericdao/dao/jpa/BaseDAOTest.java
+END
+GenericDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao/src/test/java/junit/googlecode/genericdao/dao/jpa/GenericDAOTest.java
+END

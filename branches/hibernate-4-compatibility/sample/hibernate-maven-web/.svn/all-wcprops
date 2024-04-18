@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/pom.xml
+END
+README.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/README.TXT
+END
+.xdoclet
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/.xdoclet
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/hibernate-maven-web/.project
+END

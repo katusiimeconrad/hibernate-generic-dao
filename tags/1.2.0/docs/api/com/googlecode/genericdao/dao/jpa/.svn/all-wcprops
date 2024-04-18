@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/dao/jpa
+END
+GenericDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/dao/jpa/GenericDAO.html
+END
+GeneralDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/dao/jpa/GeneralDAO.html
+END
+GenericDAOImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/dao/jpa/GenericDAOImpl.html
+END
+GeneralDAOImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/dao/jpa/GeneralDAOImpl.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/dao/jpa/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/dao/jpa/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/dao/jpa/package-tree.html
+END
+JPABaseDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/dao/jpa/JPABaseDAO.html
+END
+DAODispatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/dao/jpa/DAODispatcher.html
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/docs/api/com/googlecode/genericdao/dao/hibernate
+END
+GeneralDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/docs/api/com/googlecode/genericdao/dao/hibernate/GeneralDAO.html
+END
+GenericDAOImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/docs/api/com/googlecode/genericdao/dao/hibernate/GenericDAOImpl.html
+END
+GeneralDAOImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/docs/api/com/googlecode/genericdao/dao/hibernate/GeneralDAOImpl.html
+END
+FlexDAOAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/docs/api/com/googlecode/genericdao/dao/hibernate/FlexDAOAdapter.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/docs/api/com/googlecode/genericdao/dao/hibernate/package-frame.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/docs/api/com/googlecode/genericdao/dao/hibernate/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/docs/api/com/googlecode/genericdao/dao/hibernate/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/docs/api/com/googlecode/genericdao/dao/hibernate/package-tree.html
+END
+DAODispatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/docs/api/com/googlecode/genericdao/dao/hibernate/DAODispatcher.html
+END
+GenericDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/docs/api/com/googlecode/genericdao/dao/hibernate/GenericDAO.html
+END
+HibernateBaseDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/docs/api/com/googlecode/genericdao/dao/hibernate/HibernateBaseDAO.html
+END

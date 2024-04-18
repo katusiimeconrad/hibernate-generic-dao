@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/search/jpa
+END
+JPASearchProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/search/jpa/JPASearchProcessor.html
+END
+JPAAnnotationCollectionMetadata.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/search/jpa/JPAAnnotationCollectionMetadata.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/search/jpa/package-frame.html
+END
+JPASearchFacade.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/search/jpa/JPASearchFacade.html
+END
+JPAAnnotationMetadataUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/search/jpa/JPAAnnotationMetadataUtil.html
+END
+JPAAnnotationMetadata.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/search/jpa/JPAAnnotationMetadata.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/search/jpa/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/789/tags/1.2.0/docs/api/com/googlecode/genericdao/search/jpa/package-tree.html
+END

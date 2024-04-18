@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-search/src/main/java/junit/googlecode/genericdao/search
+END
+TrickyIssueTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-search/src/main/java/junit/googlecode/genericdao/search/TrickyIssueTest.java
+END
+PagingAndSortingTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-search/src/main/java/junit/googlecode/genericdao/search/PagingAndSortingTest.java
+END
+FieldAndFetchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-search/src/main/java/junit/googlecode/genericdao/search/FieldAndFetchTest.java
+END
+MetadataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-search/src/main/java/junit/googlecode/genericdao/search/MetadataTest.java
+END
+FilterCollectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-search/src/main/java/junit/googlecode/genericdao/search/FilterCollectionTest.java
+END
+TypesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-search/src/main/java/junit/googlecode/genericdao/search/TypesTest.java
+END
+SearchResultTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-search/src/main/java/junit/googlecode/genericdao/search/SearchResultTest.java
+END
+FilterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-search/src/main/java/junit/googlecode/genericdao/search/FilterTest.java
+END
+SecurityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/test-search/src/main/java/junit/googlecode/genericdao/search/SecurityTest.java
+END

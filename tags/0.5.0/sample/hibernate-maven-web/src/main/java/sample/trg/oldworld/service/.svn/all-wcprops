@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/559/tags/0.5.0/sample/hibernate-maven-web/src/main/java/sample/trg/oldworld/service
+END
+CitizenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/559/tags/0.5.0/sample/hibernate-maven-web/src/main/java/sample/trg/oldworld/service/CitizenService.java
+END
+CitizenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/559/tags/0.5.0/sample/hibernate-maven-web/src/main/java/sample/trg/oldworld/service/CitizenServiceImpl.java
+END
+TownService.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/559/tags/0.5.0/sample/hibernate-maven-web/src/main/java/sample/trg/oldworld/service/TownService.java
+END
+TownServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/559/tags/0.5.0/sample/hibernate-maven-web/src/main/java/sample/trg/oldworld/service/TownServiceImpl.java
+END

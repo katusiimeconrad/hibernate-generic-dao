@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/src/test/java/test/trg/dao/dao/standard
+END
+PersonService.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/src/test/java/test/trg/dao/dao/standard/PersonService.java
+END
+MyGeneralDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/src/test/java/test/trg/dao/dao/standard/MyGeneralDAOImpl.java
+END
+ProjectDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/src/test/java/test/trg/dao/dao/standard/ProjectDAO.java
+END
+PersonDAO.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/src/test/java/test/trg/dao/dao/standard/PersonDAO.java
+END
+PersonDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/src/test/java/test/trg/dao/dao/standard/PersonDAOImpl.java
+END
+ProjectDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/src/test/java/test/trg/dao/dao/standard/ProjectDAOImpl.java
+END
+BaseGenericDAOImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/src/test/java/test/trg/dao/dao/standard/BaseGenericDAOImpl.java
+END

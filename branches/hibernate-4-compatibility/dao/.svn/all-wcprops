@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao/.project
+END
+pom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao/pom.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/dao/.classpath
+END

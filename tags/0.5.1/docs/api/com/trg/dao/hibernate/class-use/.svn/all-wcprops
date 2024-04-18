@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/617/tags/0.5.1/docs/api/com/trg/dao/hibernate/class-use
+END
+GenericDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/617/tags/0.5.1/docs/api/com/trg/dao/hibernate/class-use/GenericDAO.html
+END
+HibernateBaseDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/617/tags/0.5.1/docs/api/com/trg/dao/hibernate/class-use/HibernateBaseDAO.html
+END
+GeneralDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/617/tags/0.5.1/docs/api/com/trg/dao/hibernate/class-use/GeneralDAO.html
+END
+GenericDAOImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/617/tags/0.5.1/docs/api/com/trg/dao/hibernate/class-use/GenericDAOImpl.html
+END
+GeneralDAOImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/617/tags/0.5.1/docs/api/com/trg/dao/hibernate/class-use/GeneralDAOImpl.html
+END
+FlexDAOAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/617/tags/0.5.1/docs/api/com/trg/dao/hibernate/class-use/FlexDAOAdapter.html
+END
+DAODispatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/617/tags/0.5.1/docs/api/com/trg/dao/hibernate/class-use/DAODispatcher.html
+END

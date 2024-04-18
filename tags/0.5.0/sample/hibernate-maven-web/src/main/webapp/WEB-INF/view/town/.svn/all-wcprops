@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/559/tags/0.5.0/sample/hibernate-maven-web/src/main/webapp/WEB-INF/view/town
+END
+edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/559/tags/0.5.0/sample/hibernate-maven-web/src/main/webapp/WEB-INF/view/town/edit.jsp
+END
+list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/559/tags/0.5.0/sample/hibernate-maven-web/src/main/webapp/WEB-INF/view/town/list.jsp
+END

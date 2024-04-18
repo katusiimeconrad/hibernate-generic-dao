@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/model
+END
+LimbedPet.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/model/LimbedPet.java
+END
+Address.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/model/Address.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/model/Person.java
+END
+Recipe.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/model/Recipe.java
+END
+Ingredient.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/model/Ingredient.java
+END
+Home.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/model/Home.java
+END
+Pet.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/model/Pet.java
+END
+Store.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/model/Store.java
+END
+RecipeIngredientId.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/model/RecipeIngredientId.java
+END
+RecipeIngredient.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/model/RecipeIngredient.java
+END
+Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/model/Name.java
+END
+Ident.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/238/tags/0.4.0/src/test/java/com/test/model/Ident.java
+END

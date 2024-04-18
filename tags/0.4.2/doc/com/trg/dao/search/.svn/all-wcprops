@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/336/tags/0.4.2/doc/com/trg/dao/search
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/336/tags/0.4.2/doc/com/trg/dao/search/package-use.html
+END
+Search.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/336/tags/0.4.2/doc/com/trg/dao/search/Search.html
+END
+Filter.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/336/tags/0.4.2/doc/com/trg/dao/search/Filter.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/336/tags/0.4.2/doc/com/trg/dao/search/package-summary.html
+END
+Sort.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/336/tags/0.4.2/doc/com/trg/dao/search/Sort.html
+END
+SearchUtil.FilterVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/336/tags/0.4.2/doc/com/trg/dao/search/SearchUtil.FilterVisitor.html
+END
+IMutableSearch.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/336/tags/0.4.2/doc/com/trg/dao/search/IMutableSearch.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/336/tags/0.4.2/doc/com/trg/dao/search/package-tree.html
+END
+ISearch.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/336/tags/0.4.2/doc/com/trg/dao/search/ISearch.html
+END
+SearchUtil.ItemVisitor.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/336/tags/0.4.2/doc/com/trg/dao/search/SearchUtil.ItemVisitor.html
+END
+Field.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/336/tags/0.4.2/doc/com/trg/dao/search/Field.html
+END
+SearchUtil.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/336/tags/0.4.2/doc/com/trg/dao/search/SearchUtil.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/336/tags/0.4.2/doc/com/trg/dao/search/package-frame.html
+END
+SearchResult.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/336/tags/0.4.2/doc/com/trg/dao/search/SearchResult.html
+END

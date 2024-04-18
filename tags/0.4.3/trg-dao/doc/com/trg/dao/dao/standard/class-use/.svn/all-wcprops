@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/dao/dao/standard/class-use
+END
+DAODispatcher.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/dao/dao/standard/class-use/DAODispatcher.html
+END
+GenericDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/dao/dao/standard/class-use/GenericDAO.html
+END
+GeneralDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/dao/dao/standard/class-use/GeneralDAO.html
+END
+GenericDAOImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/dao/dao/standard/class-use/GenericDAOImpl.html
+END
+GeneralDAOImpl.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/dao/dao/standard/class-use/GeneralDAOImpl.html
+END
+FlexDAOAdapter.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/427/tags/0.4.3/trg-dao/doc/com/trg/dao/dao/standard/class-use/FlexDAOAdapter.html
+END

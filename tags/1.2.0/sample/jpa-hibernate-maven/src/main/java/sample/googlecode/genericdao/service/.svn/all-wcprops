@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/789/tags/1.2.0/sample/jpa-hibernate-maven/src/main/java/sample/googlecode/genericdao/service
+END
+CitizenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/789/tags/1.2.0/sample/jpa-hibernate-maven/src/main/java/sample/googlecode/genericdao/service/CitizenService.java
+END
+CitizenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/789/tags/1.2.0/sample/jpa-hibernate-maven/src/main/java/sample/googlecode/genericdao/service/CitizenServiceImpl.java
+END
+TownService.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/789/tags/1.2.0/sample/jpa-hibernate-maven/src/main/java/sample/googlecode/genericdao/service/TownService.java
+END
+TownServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/789/tags/1.2.0/sample/jpa-hibernate-maven/src/main/java/sample/googlecode/genericdao/service/TownServiceImpl.java
+END

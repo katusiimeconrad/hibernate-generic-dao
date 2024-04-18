@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/jpa-hibernate-maven/src/main/resources
+END
+persistence.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/jpa-hibernate-maven/src/main/resources/persistence.xml
+END
+applicationContext.xml
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/jpa-hibernate-maven/src/main/resources/applicationContext.xml
+END
+target-h2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/jpa-hibernate-maven/src/main/resources/target-h2.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/jpa-hibernate-maven/src/main/resources/log4j.properties
+END
+applicationContext-datasource.xml
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/757/branches/hibernate-4-compatibility/sample/jpa-hibernate-maven/src/main/resources/applicationContext-datasource.xml
+END

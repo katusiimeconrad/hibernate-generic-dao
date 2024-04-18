@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/781/trunk/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/service
+END
+BulkDataInitializationService.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/!svn/ver/781/trunk/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/service/BulkDataInitializationService.java
+END
+BulkDataInitializationServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/781/trunk/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/service/BulkDataInitializationServiceImpl.java
+END
+CitizenService.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/635/trunk/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/service/CitizenService.java
+END
+CitizenServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/!svn/ver/781/trunk/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/service/CitizenServiceImpl.java
+END
+TownService.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/781/trunk/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/service/TownService.java
+END
+TownServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/781/trunk/sample/hibernate-maven-web/src/main/java/sample/googlecode/genericdao/oldworld/service/TownServiceImpl.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/109/tags/0.3.2/source/doc/com/trg/dao
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/109/tags/0.3.2/source/doc/com/trg/dao/package-use.html
+END
+SearchToQLProcessor.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/109/tags/0.3.2/source/doc/com/trg/dao/SearchToQLProcessor.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/109/tags/0.3.2/source/doc/com/trg/dao/package-summary.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/109/tags/0.3.2/source/doc/com/trg/dao/package-tree.html
+END
+Util.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/109/tags/0.3.2/source/doc/com/trg/dao/Util.html
+END
+GenericDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/109/tags/0.3.2/source/doc/com/trg/dao/GenericDAO.html
+END
+GeneralDAO.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/109/tags/0.3.2/source/doc/com/trg/dao/GeneralDAO.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/109/tags/0.3.2/source/doc/com/trg/dao/package-frame.html
+END

@@ -1,0 +1,89 @@
+10
+
+dir
+799
+http://hibernate-generic-dao.googlecode.com/svn/trunk
+http://hibernate-generic-dao.googlecode.com/svn
+
+
+
+2014-07-10T11:09:52.330940Z
+799
+pablitohh@gmail.com
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+8ef07cb6-1a53-0410-b69c-cfc34dde4201
+
+sample
+dir
+
+test-search
+dir
+
+dao-hibernate
+dir
+
+dao
+dir
+
+search-hibernate
+dir
+
+search
+dir
+
+test-base
+dir
+
+docs
+dir
+
+pom.xml
+file
+
+
+
+
+2016-03-18T17:19:54.202440Z
+0463b8725318a489fb7b924f585e4133
+2013-04-02T01:59:11.212883Z
+790
+dwolvert@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3264
+
+search-jpa-hibernate
+dir
+

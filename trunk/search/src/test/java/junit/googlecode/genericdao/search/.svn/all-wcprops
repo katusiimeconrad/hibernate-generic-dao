@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/798/trunk/search/src/test/java/junit/googlecode/genericdao/search
+END
+InternalUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/774/trunk/search/src/test/java/junit/googlecode/genericdao/search/InternalUtilTest.java
+END
+SearchTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/774/trunk/search/src/test/java/junit/googlecode/genericdao/search/SearchTest.java
+END
+JPAAnnotationMetadataTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/798/trunk/search/src/test/java/junit/googlecode/genericdao/search/JPAAnnotationMetadataTest.java
+END

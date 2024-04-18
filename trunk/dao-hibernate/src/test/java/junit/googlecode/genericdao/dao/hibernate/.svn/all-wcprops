@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/774/trunk/dao-hibernate/src/test/java/junit/googlecode/genericdao/dao/hibernate
+END
+GeneralDAOAndDispatcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/774/trunk/dao-hibernate/src/test/java/junit/googlecode/genericdao/dao/hibernate/GeneralDAOAndDispatcherTest.java
+END
+BaseDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/774/trunk/dao-hibernate/src/test/java/junit/googlecode/genericdao/dao/hibernate/BaseDAOTest.java
+END
+GenericDAOTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/774/trunk/dao-hibernate/src/test/java/junit/googlecode/genericdao/dao/hibernate/GenericDAOTest.java
+END
